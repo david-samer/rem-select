@@ -1,5 +1,8 @@
 # Skip Hire UI Redesign
 
+🔗 [**Live Demo**](https://rem-select.vercel.app/) &nbsp;|&nbsp; 🧪 [**Open in CodeSandbox**](https://codesandbox.io/p/github/david-samer/rem-select/main)
+
+
 This project is a complete redesign of the original skip hire page. The goal was to **revamp the interface** while **retaining all existing functionality**, improve **UI/UX**, and ensure full **responsiveness** across devices.
 
 ---
